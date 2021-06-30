@@ -1,0 +1,17 @@
+$loginColor: #491176;
+$mainColor: #9E25FF;
+$depositColor: #7B1AC9;
+$withdrawColor: #7057e1;
+$identifiColor: #964ad4;
+$linearColorA: #4580ba;
+$linearColorB: #321379;
+
+:export {
+  loginColor: $loginColor;
+  mainColor: $mainColor;
+  depositColor: $depositColor;
+  withdrawColor: $withdrawColor;
+  identifiColor: $identifiColor;
+  linearColorA: $linearColorA;
+  linearColorB: $linearColorB;
+}
