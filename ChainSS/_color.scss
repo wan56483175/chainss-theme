@@ -7,6 +7,7 @@ $linearColorA: #A92F99;
 $linearColorB: #321379;
 $btnLinearColorA: #8D1CD4;
 $btnLinearColorB: #6B1BAB;
+$fontColor: #9E5BD4;
 
 :export {
   loginColor: $loginColor;
@@ -18,4 +19,5 @@ $btnLinearColorB: #6B1BAB;
   linearColorB: $linearColorB;
   btnLinearColorA: $btnLinearColorA;
   btnLinearColorB: $btnLinearColorB;
+  fontColor: $fontColor;
 }
