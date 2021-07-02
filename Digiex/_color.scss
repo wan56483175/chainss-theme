@@ -8,6 +8,12 @@ $linearColorB: #321379;
 $btnLinearColorA: #1c69d4;
 $btnLinearColorB: #1b27ab;
 $fontColor: #5b69d4;
+$assetColorStartA: #4c77ff;
+$assetColorEndA: #620790;
+$assetColorStartB: #9268ea;
+$assetColorEndB: #83035e;
+$assetColorStartC: #0a83ff;
+$assetColorEndC: #038379;
 
 :export {
   loginColor: $loginColor;
@@ -20,4 +26,10 @@ $fontColor: #5b69d4;
   btnLinearColorA: $btnLinearColorA;
   btnLinearColorB: $btnLinearColorB;
   fontColor: $fontColor;
+  assetColorStartA: $assetColorStartA;
+  assetColorEndA: $assetColorEndA;
+  assetColorStartB: $assetColorStartB;
+  assetColorEndB: $assetColorEndB;
+  assetColorStartC: $assetColorStartC;
+  assetColorEndC: $assetColorEndC;
 }
